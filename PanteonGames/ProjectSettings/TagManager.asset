@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Platform
+  - FireObstacle
+  - UnFireObstacle
+  - Wall
+  - FinishLine
+  - Gem
   layers:
   - Default
   - TransparentFX
